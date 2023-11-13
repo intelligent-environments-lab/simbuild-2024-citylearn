@@ -1,0 +1,7 @@
+---
+dataset_url: https://gitlab.aicrowd.com/aicrowd/challenges/citylearn-challenge/citylearn-2023-starter-kit/-/archive/master/citylearn-2023-starter-kit-master.zip?path=data/schemas/warm_up
+citylearn:
+  timestamps:
+    start: '2018-06-01 00:00:00'
+    end: '2018-06-30 23:00:00'
+...

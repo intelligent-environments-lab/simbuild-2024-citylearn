@@ -1,0 +1,5 @@
+CityLearn==2.1.0
+ipykernel
+pyyaml
+stable-baselines3==1.7.0
+gym==0.21.0
